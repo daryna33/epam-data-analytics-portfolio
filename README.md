@@ -1,3 +1,4 @@
+
 # EPAM Data Analytics Portfolio
 
 This repository showcases my work for the **EPAM Data Analytics Engineering Training** application.  
@@ -5,7 +6,7 @@ It demonstrates **SQL**, **Python**, **ETL pipelines**, **database modeling**, a
 
 ---
 
-## 📂 Structure
+## Structure
 
 | Folder             | Description |
 |--------------------|-------------|
