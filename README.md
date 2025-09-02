@@ -21,4 +21,4 @@ It demonstrates **SQL**, **Python**, **ETL pipelines**, **database modeling**, a
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/epam-data-analytics-portfolio.git
-2930049
+
